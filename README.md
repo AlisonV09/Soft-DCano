@@ -1,1 +1,1 @@
-# Soft-DCano
+SoftDCano Proyecto Tecnológico
